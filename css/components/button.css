@@ -1,0 +1,17 @@
+.button {
+  background-color: #4a4a4a;
+  color: #FCF5E8;
+  padding: 12px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background-image: url('../../images/flammes.gif');
+  background-size: cover;
+  background-position: bottom;
+  color: transparent;
+  border: 1px solid rgba(71, 68, 68, 0.226);
+  border-bottom: none;
+  transition-duration: 1.3s;
+}
